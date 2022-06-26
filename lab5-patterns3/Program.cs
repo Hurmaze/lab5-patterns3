@@ -35,7 +35,7 @@ namespace Lab5_behaviouralPatterns
 
 
             Console.WriteLine("Change group moving strategy");
-            group.SetMotionType(new Superflying());
+            group.SetMotionType(new MagicFlying());
             Console.WriteLine(group.Move());
 
         }

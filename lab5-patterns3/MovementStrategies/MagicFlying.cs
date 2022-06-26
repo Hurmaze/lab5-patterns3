@@ -2,9 +2,9 @@
 using System;
 namespace lab5_patterns3.Movement
 {
-    public class Superflying : IMovable
+    public class MagicFlying : IMovable
     {
-        public Superflying()
+        public MagicFlying()
         {
         }
         public string Move() => " group is superflying with magic";
