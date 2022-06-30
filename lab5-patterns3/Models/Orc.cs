@@ -1,6 +1,7 @@
 ﻿using System;
 namespace Lab5_behaviouralPatterns
 {
+    //added some changes
 	public class Orc : Sprite
 	{
 		public Orc()
